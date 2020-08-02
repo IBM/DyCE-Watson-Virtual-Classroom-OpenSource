@@ -35,7 +35,7 @@
 * "Kar Haw Chang" Watson man karhaw.chang@ibm.com (Louisiana, USA) 
 * "Rohana Sosa" Holistic Web Leader rohana.karina.sosa@ibm.com (New York, USA) 
 * "Sanjay Kumar" Data Scientist dude sanjay.kumar6@ibm.com (Karachi, Pakistan)
-* "Shikhar Kwatra" Data Scientist lead skwatra@us.ibm.com (North Carolina, USA)
+* "Shikhar Kwatra" Data Scientist lead skwatra@us.ibm.com (California, USA)
 * "Yuki Ishibashi" Creativity Ambassador yuki.ishibashi@ibm.com (Tokyo, Japan)
 
 
