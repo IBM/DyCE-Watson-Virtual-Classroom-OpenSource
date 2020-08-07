@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.ibm.com/skwatra/DyCE-Watson-Virtual-Classroom#team-members">Team Members</a> |
-  <a href="https://github.ibm.com/skwatra/DyCE-Watson-Virtual-Classroom#backgroundproblem-statement-and-publication">Background/Problem Statement and Publication</a> |
+  <a href="https://github.com/IBM/DyCE-Watson-Virtual-Classroom-OpenSource#backgroundproblem-statement-and-publication">Background/Problem Statement and Publication</a> |
   <a href="https://github.ibm.com/skwatra/DyCE-Watson-Virtual-Classroom#our-solution">Our Solution</a> |
   <a href="https://github.ibm.com/skwatra/DyCE-Watson-Virtual-Classroom#demo">Demo</a> |
   <a href="https://github.ibm.com/skwatra/DyCE-Watson-Virtual-Classroom#technology-integrated-website-for-diverse-influencers-non-profit-org">Technology Integrated Website</a> |
