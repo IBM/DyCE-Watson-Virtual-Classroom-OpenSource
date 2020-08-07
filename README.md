@@ -13,14 +13,14 @@
 ---
 
 <p align="center">
-  <a href="https://github.ibm.com/skwatra/DyCE-Watson-Virtual-Classroom#team-members">Team Members</a> |
+  <a href="https://github.com/IBM/DyCE-Watson-Virtual-Classroom-OpenSource#team-members">Team Members</a> |
   <a href="https://github.com/IBM/DyCE-Watson-Virtual-Classroom-OpenSource#backgroundproblem-statement-and-publication">Background/Problem Statement and Publication</a> |
-  <a href="https://github.ibm.com/skwatra/DyCE-Watson-Virtual-Classroom#our-solution">Our Solution</a> |
-  <a href="https://github.ibm.com/skwatra/DyCE-Watson-Virtual-Classroom#demo">Demo</a> |
-  <a href="https://github.ibm.com/skwatra/DyCE-Watson-Virtual-Classroom#technology-integrated-website-for-diverse-influencers-non-profit-org">Technology Integrated Website</a> |
-  <a href="https://github.ibm.com/skwatra/DyCE-Watson-Virtual-Classroom#technologies-used">Technologies Used</a> |
-  <a href="https://github.ibm.com/skwatra/DyCE-Watson-Virtual-Classroom#technical-description">Technical Description</a> |
-  <a href="https://github.ibm.com/skwatra/DyCE-Watson-Virtual-Classroom/blob/master/README.md#system-architecture--roadmap">System Architecture / Roadmap</a> 
+  <a href="https://github.com/IBM/DyCE-Watson-Virtual-Classroom-OpenSource#our-solution">Our Solution</a> |
+  <a href="https://github.com/IBM/DyCE-Watson-Virtual-Classroom-OpenSource#demo">Demo</a> |
+  <a href="https://github.com/IBM/DyCE-Watson-Virtual-Classroom-OpenSource#technology-integrated-website-for-diverse-influencers-non-profit-org">Technology Integrated Website</a> |
+  <a href="https://github.com/IBM/DyCE-Watson-Virtual-Classroom-OpenSource#technologies-used">Technologies Used</a> |
+  <a href="https://github.com/IBM/DyCE-Watson-Virtual-Classroom-OpenSource#technical-description">Technical Description</a> |
+  <a href="https://github.com/IBM/DyCE-Watson-Virtual-Classroom-OpenSource#system-architecture--roadmap">System Architecture / Roadmap</a> 
 </p>
 
 ---
