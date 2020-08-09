@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://www.youtube.com/watch?v=5_7lyhYxqb4&feature=youtu.be">
-<img src="https://github.ibm.com/skwatra/DyCE-Watson-Virtual-Classroom/blob/master/src/img/Dynamic%20Chatbot%20Engagement.gif" alt="DyCE cover" style="width:42px;height:42px;">
+<img src="https://github.com/IBM/DyCE-Watson-Virtual-Classroom-OpenSource/blob/master/src/img/Dynamic%20Chatbot%20Engagement.gif" alt="DyCE cover" style="width:42px;height:42px;">
 </a> 
 </p>
 
@@ -27,7 +27,7 @@
 
 
 <p align="center">
-<img src="https://github.ibm.com/skwatra/DyCE-Watson-Virtual-Classroom/blob/master/src/img/three_circles_separator.gif" alt="separator" style="width:42px;height:42px;">
+<img src="https://github.com/IBM/DyCE-Watson-Virtual-Classroom-OpenSource/blob/master/src/img/three_circles_separator.gif" alt="separator" style="width:42px;height:42px;">
 </p>
 
 
@@ -79,7 +79,7 @@ The website is set to public so anyone can see it for now. If you'd like to sign
 A method and system for **dynamic chat-bot** and **mood analysis** are integrated.
 
 <p align="center">
-<img src="https://github.ibm.com/skwatra/DyCE-Watson-Virtual-Classroom/blob/master/src/img/di_skillsnetwork_site.png" alt="skillsnetwork website" style="width:42px;height:42px;">
+<img src="https://github.com/IBM/DyCE-Watson-Virtual-Classroom-OpenSource/blob/master/src/img/di_skillsnetwork_site.png" alt="skillsnetwork website" style="width:42px;height:42px;">
 </p>
 
 Below is the the WebEx Video Recording of the meeting presentation with <a href="https://diverseinfluencers.org/">Diverse Influencers (DI)</a>  (whom we received their consent to record the WebEx) DI said they will continue to use the platform since they loved it very much.
@@ -165,6 +165,6 @@ Figure 5. System Architecture. This figure illustrates what is being store in IB
 
 
 <p align="center">
-<img src="https://github.ibm.com/skwatra/DyCE-Watson-Virtual-Classroom/blob/master/src/img/three_circles_separator.gif" alt="separator" style="width:42px;height:42px;">
+<img src="https://github.com/IBM/DyCE-Watson-Virtual-Classroom-OpenSource/blob/master/src/img/three_circles_separator.gif" alt="separator" style="width:42px;height:42px;">
 </p>
 
