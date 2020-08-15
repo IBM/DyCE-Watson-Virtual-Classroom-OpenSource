@@ -20,6 +20,6 @@ Python Jupyter Notebook Part 1
 
 Python Jupyter Notebook Part 2
 
-![DyCEWatsonNLUPart2-Sanjay](https://media.github.ibm.com/user/169439/files/ed40b200-b861-11ea-83c5-9d333cb4b190)
+![DyCEWatsonNLUPart2-Sanjay](https://user-images.githubusercontent.com/69079832/90301754-ba816600-de6f-11ea-8c75-22d81efd368e.gif)
 
 
