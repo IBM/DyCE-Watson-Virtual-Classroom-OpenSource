@@ -5,7 +5,7 @@
 
 Watson NLU and Watson Knowledge Studio Part 1
 
-![Watson NLU and Watson Knowledge Studio Part 1](https://user-images.githubusercontent.com/69079832/90301044-7be9ac80-de6b-11ea-9e6b-f3f26295904d.gif)
+![Watson NLU and Watson Knowledge Studio Part 1](https://user-images.githubusercontent.com/69079832/90301095-c539fc00-de6b-11ea-9f29-32b16749e5c4.gif)
 
 
 Watson NLU and Watson Knowledge Studio Part 2
