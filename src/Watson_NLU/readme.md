@@ -5,7 +5,7 @@
 
 Watson NLU and Watson Knowledge Studio Part 1
 
-![DyCEWatsonNLUPart1-Sanjay](https://media.github.ibm.com/user/169439/files/48bd7080-b85f-11ea-9436-537ae674c6cf)
+![DyCEWatsonNLUPart1-Sanjay](https://media.github.com/user/169439/files/48bd7080-b85f-11ea-9436-537ae674c6cf)
 
 
 Watson NLU and Watson Knowledge Studio Part 2
