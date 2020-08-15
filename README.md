@@ -32,11 +32,11 @@
 
 
 ## Team Members
-* "Kar Haw Chang" Watson man karhaw.chang@ibm.com (Louisiana, USA) 
-* "Rohana Sosa" Holistic Web Leader rohana.karina.sosa@ibm.com (New York, USA) 
-* "Sanjay Kumar" Data Scientist Dude sanjay.kumar6@ibm.com (Karachi, Pakistan)
-* "Shikhar Kwatra" Data Scientist Lead skwatra@us.ibm.com (North Carolina, USA)
-* "Yuki Ishibashi" Creativity Ambassador yuki.ishibashi@ibm.com (Tokyo, Japan)
+* "Kar Haw Chang" Watson man (Louisiana, USA) 
+* "Rohana Sosa" Holistic Web Leader (New York, USA) 
+* "Sanjay Kumar" Data Scientist Dude (Karachi, Pakistan)
+* "Shikhar Kwatra" Data Scientist Lead (North Carolina, USA)
+* "Yuki Ishibashi" Creativity Ambassador (Tokyo, Japan)
 
 
 ## Background/Problem Statement and Publication
