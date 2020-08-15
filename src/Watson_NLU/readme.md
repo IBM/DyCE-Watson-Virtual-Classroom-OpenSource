@@ -15,7 +15,7 @@ Watson NLU and Watson Knowledge Studio Part 2
 
 Python Jupyter Notebook Part 1
 
-![Python Jupyter Notebook Part 1](https://user-images.githubusercontent.com/69079832/90301937-cb7ea700-de70-11ea-8373-7a07c5882f08.gif)
+![Python Jupyter Notebook Part 1](https://user-images.githubusercontent.com/69079832/90302051-9cb50080-de71-11ea-9cd1-2855000197b1.gif)
 
 
 Python Jupyter Notebook Part 2
