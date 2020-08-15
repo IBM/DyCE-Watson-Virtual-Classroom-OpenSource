@@ -10,7 +10,7 @@ Watson NLU and Watson Knowledge Studio Part 1
 
 Watson NLU and Watson Knowledge Studio Part 2
 
-![DyCEWatsonNLUPart1-Sanjay](https://media.github.ibm.com/user/169439/files/44de1e00-b860-11ea-960c-3d978a3e23fd)
+![DyCEWatsonNLUPart1-Sanjay](https://user-images.githubusercontent.com/69079832/90301351-578ecf80-de6d-11ea-902e-160163b1d0db.gif)
 
 
 Python Jupyter Notebook Part 1
