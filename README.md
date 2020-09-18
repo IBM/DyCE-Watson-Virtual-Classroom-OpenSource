@@ -35,7 +35,7 @@
 * "Kar Haw Chang" Watson man (Louisiana, USA) 
 * "Rohana Sosa" Holistic Web Leader (New York, USA) 
 * "Sanjay Kumar" Data Scientist Dude (Karachi, Pakistan)
-* "Shikhar Kwatra" Data Scientist Lead (North Carolina, USA)
+* "Shikhar Kwatra" Data Scientist Lead (California, USA)
 * "Yuki Ishibashi" Creativity Ambassador (Tokyo, Japan)
 
 
