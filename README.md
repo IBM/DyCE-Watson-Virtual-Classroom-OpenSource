@@ -168,3 +168,5 @@ Figure 5. System Architecture. This figure illustrates what is being store in IB
 <img src="https://github.com/IBM/DyCE-Watson-Virtual-Classroom-OpenSource/blob/master/src/img/three_circles_separator.gif" alt="separator" style="width:42px;height:42px;">
 </p>
 
+
+
